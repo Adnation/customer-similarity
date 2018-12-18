@@ -1,0 +1,6 @@
+*.pyc
+*.csv
+data/
+clean_text.py
+local_settings.py
+poc.py

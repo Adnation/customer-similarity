@@ -1,0 +1,51 @@
+name: customer-similarity
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - krb5=1.16.1=hc83ff2d_6
+  - libedit=3.1.20170329=h6b74fdf_2
+  - libpq=10.5=h1ad7b7a_0
+  - psycopg2=2.7.5=py37hb7f436b_0
+  - blas=1.1=openblas
+  - bzip2=1.0.6=h470a237_2
+  - ca-certificates=2018.11.29=ha4d7672_0
+  - certifi=2018.11.29=py37_1000
+  - click=7.0=py_0
+  - flask=1.0.2=py_2
+  - itsdangerous=1.1.0=py_0
+  - jinja2=2.10=py_1
+  - libffi=3.2.1=hfc679d8_5
+  - libgfortran=3.0.0=1
+  - libgfortran-ng=7.2.0=hdf63c60_3
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - markupsafe=1.1.0=py37h470a237_0
+  - ncurses=6.1=hfc679d8_2
+  - numpy=1.15.4=py37_blas_openblashb06ca3d_0
+  - openblas=0.3.3=ha44fe06_1
+  - openssl=1.0.2p=h470a237_1
+  - pandas=0.23.4=py37hf8a1672_0
+  - pip=18.1=py37_1000
+  - python=3.7.1=h5001a0f_0
+  - python-dateutil=2.7.5=py_0
+  - pytz=2018.7=py_0
+  - readline=7.0=haf1bffa_1
+  - scikit-learn=0.20.1=py37_blas_openblash00c3548_200
+  - scipy=1.1.0=py37_blas_openblashb06ca3d_202
+  - setuptools=40.6.3=py37_0
+  - six=1.12.0=py37_1000
+  - sqlalchemy=1.2.15=py37h470a237_0
+  - sqlite=3.26.0=hb1c47c0_0
+  - tk=8.6.9=ha92aebf_0
+  - werkzeug=0.14.1=py_0
+  - wheel=0.32.3=py37_0
+  - xz=5.2.4=h470a237_1
+  - zlib=1.2.11=h470a237_3
+  - intel-openmp=2019.1=144
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libopenblas=0.3.3=h5a2b251_3
+  - mkl=2018.0.3=1
+  - numpy-base=1.15.4=py37h2f8d375_0
+prefix: /home/aditya/miniconda3/envs/customer-similarity
+
