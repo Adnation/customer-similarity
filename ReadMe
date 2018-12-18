@@ -1,6 +1,6 @@
-###Customer Similarity
+### Customer Similarity
 
-####Instruction to run
+#### Instruction to run
 
 1. To run this, postgres need to be installed on host system.
 2. Once postgress installed, configurations of database like database name, user, password, host need to be stored in file called localsettings.py. This repository does not contain this file but need to be created in root directory of the project.
